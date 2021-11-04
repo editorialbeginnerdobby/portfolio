@@ -25,6 +25,6 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.fa-kakaotalk:before {
+.icon-kakaotalk:before {
   content: "\e900";
 }
