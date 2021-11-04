@@ -6305,7 +6305,9 @@
 .fa-squarespace:before {
   content: "\f5be"
 }
-
+.fa-kakaotalk:before {
+  content: "\f086"
+}
 .fa-stack-exchange:before {
   content: "\f18d"
 }
