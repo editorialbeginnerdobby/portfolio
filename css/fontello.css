@@ -53,5 +53,11 @@
   /* Uncomment for 3D effect */
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
+.icon-kakaotalk {
+    font-family: "fontell";
+    font-weight: 400;
+    src: url(../font/fontello.eot?65739301);
+    src: url(../font/fontello.eot?65739301#iefix) format('embedded-opentype'), url(../font/fontello.woff2?65739301) format('woff2'), url(../font/fontello.woff?65739301) format('woff'), url(../font/fontello.ttf?65739301) format('truetype'), url(../font/fontello.svg?65739301#fontello) format('svg');
+}
 
 .icon-kakaotalk:before { content: '\f09b'; } /* '' */
