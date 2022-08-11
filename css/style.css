@@ -394,7 +394,7 @@ body {background: url(../img/header_bg.jpg) repeat-x center top;}
     text-align: center;
 }
 .side2 figcaption {width: 60%;}
-.side2 figcaption {color: #fff; font-size: 20px; font-family: 'Abel', sans-serif; font-weight: bold; background: rgba(0,0,0,0.4); padding: 3px 10px;}
+.side2 figcaption {color: #fff; font-size: 20px; font-family: 'Abel', sans-serif; font-weight: bold; background: rgba(0,0,0,0.8); padding: 3px 10px;}
 .side2:hover .front {transform: rotateY(180deg);}
 .side2:hover .back {transform: rotateY(0deg); z-index: 1;}
 
